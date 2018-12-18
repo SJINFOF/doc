@@ -1,5 +1,5 @@
 ## /query/scan
-## Request
+### Request
 
 ```json
 {
