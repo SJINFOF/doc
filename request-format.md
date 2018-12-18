@@ -1,4 +1,6 @@
-# 请求
+## /query/scan
+## Request
+
 ```json
 {
   "code": "700001",
@@ -8,7 +10,7 @@
 }
 ```
 
-# 返回
+### Response
 ```json
 {
   "errcode": 0,
