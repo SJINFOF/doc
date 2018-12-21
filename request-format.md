@@ -15,6 +15,7 @@
   "errcode": 0,
   "msg": "xxx",
   "qyeryTime": 1000, // ms
+  "count": 10 // data的条数
   "data": [
     {
       "a": 1,
@@ -43,6 +44,7 @@
 {
   "errcode": 0,
   "msg": "xxx",
+  "count": 10 // data的条数
   "qyeryTime": 1000, // ms
   "data": [
     {
